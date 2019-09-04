@@ -23,10 +23,8 @@ const data = [
 
 console.log(data)
 
-let setOfCards = data.map( item => {
-    return(
-    <NewCard course={item.course} instructor={item.instructor} image={item.image} />)
-});
+let setOfCards = data.map( (item,i) => 
+    <NewCard course={item.course} instructor={item.instructor} image={item.image} key={i} />);
 
 console.log(setOfCards);
 
