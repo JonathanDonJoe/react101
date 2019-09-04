@@ -19,13 +19,24 @@
     <script type="text/babel">
 
         function getName() {
-            return 'Hulk Hogan for Prez'
+            return 'Hulk for Prez'
         }
 
+        const hulk = 'https://upload.wikimedia.org/wikipedia/en/5/59/Hulk_%28comics_character%29.png'
+
+        // ReactDOM.render takes 2 args:
+        // 1. What
+        // 1b. ONLY ONE ELEMENT
+        // 2. Where
+
         ReactDOM.render(
-            <h1>I love React {2+8} times! My mantra is {getName()}</h1>, 
+            <div>
+                <h1>I love React {2+8} times! My mantra is {getName()}</h1>
+                <img src={hulk} alt="" /> 
+            </div>
+            ,
             document.getElementById('root')
-            )
+        )
     </script>
 </body>
 </html>
