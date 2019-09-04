@@ -1,6 +1,6 @@
 // EVERY REACT COMPONENT MUST RETURN A SINGLE DOM ELEMENT
 function Card(props){
-    console.log(props);
+    // console.log(props);
     const name = "Jon Joe";    
     // const title = "React From the Beginning";
     // const title = props.title;
