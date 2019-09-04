@@ -17,8 +17,13 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.26.0/babel.min.js"></script>
 
     <script type="text/babel">
+
+        function getName() {
+            return 'Hulk Hogan for Prez'
+        }
+
         ReactDOM.render(
-            <h1>I love React!</h1>, 
+            <h1>I love React {2+8} times! My mantra is {getName()}</h1>, 
             document.getElementById('root')
             )
     </script>
