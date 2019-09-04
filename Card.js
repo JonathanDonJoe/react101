@@ -1,6 +1,6 @@
 // EVERY REACT COMPONENT MUST RETURN A SINGLE DOM ELEMENT
 function Card(props){
-    // console.log(props);
+    console.log(props);
     const name = "Jon Joe";    
     // const title = "React From the Beginning";
     // const title = props.title;
@@ -12,8 +12,8 @@ function Card(props){
                     {/* <img src={props.data.image} /> */}
                 </div>
                 <div className="card-content">
-                    {/* <p>{props.data.course}</p>
-                    <p>{props.data.instructor}</p> */}
+                    <p>{props.name}</p>
+                    <p>{props.title}</p>
                 </div>
                 <div className="card-action">
                     <a href="#">${saleOn ? 9.99 : 59.99}</a>
