@@ -10,11 +10,29 @@ class CoinFlip extends React.Component {
         this.state = {
             image: this.coin[0]
         }
+        // this.flip = this.flip.bind(this);
     }
+
+    // flip() {
+    //     let coinSide = Math.round(Math.random());
+    //     this.setState({
+    //         image: this.coin[coinSide]
+    //     })
+    // }
+
+    flip = () => {
+        let coinSide = Math.round(Math.random());
+        this.setState({
+            image: this.coin[coinSide]
+        })
+    }
+
+   
+
     render() {
         return( 
             <div className='coin-flip'>
-                <button>Flip!</button>
+                <button onClick={this.flip} className='minus waves-effect waves-light btn'>Flip!</button>
                 <img src={this.state.image} />
             </div>
         )
