@@ -1,0 +1,1962 @@
+[
+  {
+    "Rank": 1,
+    "Country/Territory": "China PR",
+    "Capital": "Beijing",
+    "Population": "20,693,000",
+    "Year": 2012,
+    "percent": "1.52%"
+  },
+  {
+    "Rank": 2,
+    "Country/Territory": "India",
+    "Capital": "New Delhi",
+    "Population": "16,787,949",
+    "Year": 2014,
+    "percent": "1.10%"
+  },
+  {
+    "Rank": 3,
+    "Country/Territory": "Japan",
+    "Capital": "Tokyo",
+    "Population": "13,491,000",
+    "Year": 2015,
+    "percent": "10.67%"
+  },
+  {
+    "Rank": 4,
+    "Country/Territory": "Philippines",
+    "Capital": "Manila",
+    "Population": "12,877,253",
+    "Year": 2015,
+    "percent": "29%"
+  },
+  {
+    "Rank": 5,
+    "Country/Territory": "Russia",
+    "Capital": "Moscow",
+    "Population": "11,541,000",
+    "Year": 2011,
+    "percent": "8.07%"
+  },
+  {
+    "Rank": 6,
+    "Country/Territory": "Egypt",
+    "Capital": "Cairo",
+    "Population": "10,230,350",
+    "Year": 2012,
+    "percent": "11.10%"
+  },
+  {
+    "Rank": 7,
+    "Country/Territory": "Indonesia",
+    "Capital": "Jakarta",
+    "Population": "10,187,595",
+    "Year": 2011,
+    "percent": "4.18%"
+  },
+  {
+    "Rank": 8,
+    "Country/Territory": "DR Congo",
+    "Capital": "Kinshasa",
+    "Population": "10,125,000",
+    "Year": 2012,
+    "percent": "12.30%"
+  },
+  {
+    "Rank": 9,
+    "Country/Territory": "South Korea",
+    "Capital": "Seoul",
+    "Population": "9,989,795",
+    "Year": 2015,
+    "percent": "20.47%"
+  },
+  {
+    "Rank": 10,
+    "Country/Territory": "Bangladesh",
+    "Capital": "Dhaka",
+    "Population": "8,906,000",
+    "Year": 2011,
+    "percent": "5.56%"
+  },
+  {
+    "Rank": 11,
+    "Country/Territory": "Mexico",
+    "Capital": "Mexico City",
+    "Population": "8,851,080",
+    "Year": 2010,
+    "percent": "7.51%"
+  },
+  {
+    "Rank": 12,
+    "Country/Territory": "Iran",
+    "Capital": "Tehran",
+    "Population": "8,846,782",
+    "Year": 2014,
+    "percent": "9.91%"
+  },
+  {
+    "Rank": 13,
+    "Country/Territory": "England",
+    "Capital": "London",
+    "Population": "8,630,100",
+    "Year": 2015,
+    "percent": "13.25%"
+  },
+  {
+    "Rank": 14,
+    "Country/Territory": "Peru",
+    "Capital": "Lima",
+    "Population": "8,481,415",
+    "Year": 2012,
+    "percent": "28.29%"
+  },
+  {
+    "Rank": 15,
+    "Country/Territory": "Thailand",
+    "Capital": "Bangkok",
+    "Population": "8,249,117",
+    "Year": 2010,
+    "percent": "12.42%"
+  },
+  {
+    "Rank": 16,
+    "Country/Territory": "Colombia",
+    "Capital": "Bogotá",
+    "Population": "7,613,303",
+    "Year": 2011,
+    "percent": "16.17%"
+  },
+  {
+    "Rank": 17,
+    "Country/Territory": "Vietnam",
+    "Capital": "Hanoi",
+    "Population": "7,587,800",
+    "Year": 2014,
+    "percent": "8.22%"
+  },
+  {
+    "Rank": 18,
+    "Country/Territory": "Hong Kong(China)",
+    "Capital": "Hong Kong",
+    "Population": "7,298,600",
+    "Year": 2015,
+    "percent": "100%"
+  },
+  {
+    "Rank": 19,
+    "Country/Territory": "Iraq",
+    "Capital": "Baghdad",
+    "Population": "7,216,040",
+    "Year": "",
+    "percent": "21.59%"
+  },
+  {
+    "Rank": 20,
+    "Country/Territory": "Singapore",
+    "Capital": "Singapore",
+    "Population": "5,535,000",
+    "Year": 2015,
+    "percent": "100%"
+  },
+  {
+    "Rank": 21,
+    "Country/Territory": "Turkey",
+    "Capital": "Ankara",
+    "Population": "5,150,072",
+    "Year": 2014,
+    "percent": "6.72%"
+  },
+  {
+    "Rank": 22,
+    "Country/Territory": "Chile",
+    "Capital": "Santiago",
+    "Population": "5,084,038",
+    "Year": 2012,
+    "percent": "29.12%"
+  },
+  {
+    "Rank": 23,
+    "Country/Territory": "Saudi Arabia",
+    "Capital": "Riyadh",
+    "Population": "4,878,723",
+    "Year": 2009,
+    "percent": "18.20%"
+  },
+  {
+    "Rank": 24,
+    "Country/Territory": "Germany",
+    "Capital": "Berlin",
+    "Population": "3,520,000",
+    "Year": 2012,
+    "percent": "4.38%"
+  },
+  {
+    "Rank": 25,
+    "Country/Territory": "Syria",
+    "Capital": "Damascus",
+    "Population": "3,500,000",
+    "Year": "",
+    "percent": "15.32%"
+  },
+  {
+    "Rank": 26,
+    "Country/Territory": "Algeria",
+    "Capital": "Algiers",
+    "Population": "3,415,811",
+    "Year": "",
+    "percent": "8.45%"
+  },
+  {
+    "Rank": 27,
+    "Country/Territory": "Spain",
+    "Capital": "Madrid",
+    "Population": "3,233,527",
+    "Year": 2012,
+    "percent": "6.84%"
+  },
+  {
+    "Rank": 28,
+    "Country/Territory": "North Korea",
+    "Capital": "Pyongyang",
+    "Population": "3,144,005",
+    "Year": "",
+    "percent": "12.63%"
+  },
+  {
+    "Rank": 29,
+    "Country/Territory": "Afghanistan",
+    "Capital": "Kabul",
+    "Population": "3,140,853",
+    "Year": "",
+    "percent": "10.28%"
+  },
+  {
+    "Rank": 30,
+    "Country/Territory": "Kenya",
+    "Capital": "Nairobi",
+    "Population": "3,138,369",
+    "Year": 2010,
+    "percent": "7.67%"
+  },
+  {
+    "Rank": 31,
+    "Country/Territory": "Greece",
+    "Capital": "Athens",
+    "Population": "3,090,508",
+    "Year": "",
+    "percent": "28.02%"
+  },
+  {
+    "Rank": 32,
+    "Country/Territory": "Ethiopia",
+    "Capital": "Addis Ababa",
+    "Population": "3,040,740",
+    "Year": 2012,
+    "percent": "3.31%"
+  },
+  {
+    "Rank": 33,
+    "Country/Territory": "Argentina",
+    "Capital": "Buenos Aires",
+    "Population": "2,891,082",
+    "Year": 2010,
+    "percent": "7.16%"
+  },
+  {
+    "Rank": 34,
+    "Country/Territory": "Italy",
+    "Capital": "Rome",
+    "Population": "2,868,104",
+    "Year": 2014,
+    "percent": "4.72%"
+  },
+  {
+    "Rank": 35,
+    "Country/Territory": "Ukraine",
+    "Capital": "Kiev",
+    "Population": "2,847,200",
+    "Year": 2013,
+    "percent": "6.26%"
+  },
+  {
+    "Rank": 36,
+    "Country/Territory": "Cameroon",
+    "Capital": "Yaoundé",
+    "Population": "2,765,568",
+    "Year": 2015,
+    "percent": "11.65%"
+  },
+  {
+    "Rank": 37,
+    "Country/Territory": "Taiwan",
+    "Capital": "Taipei",
+    "Population": "2,686,516",
+    "Year": 2013,
+    "percent": "11.53%"
+  },
+  {
+    "Rank": 38,
+    "Country/Territory": "Brazil",
+    "Capital": "Brasília",
+    "Population": "2,648,532",
+    "Year": 2012,
+    "percent": "1.33%"
+  },
+  {
+    "Rank": 39,
+    "Country/Territory": "Jordan",
+    "Capital": "Amman",
+    "Population": "2,600,603",
+    "Year": "",
+    "percent": "40.26%"
+  },
+  {
+    "Rank": 40,
+    "Country/Territory": "Angola",
+    "Capital": "Luanda",
+    "Population": "2,453,779",
+    "Year": "",
+    "percent": "11.43%"
+  },
+  {
+    "Rank": 41,
+    "Country/Territory": "South Africa",
+    "Capital": "Pretoria",
+    "Population": "2,345,908",
+    "Year": "",
+    "percent": "4.43%"
+  },
+  {
+    "Rank": 42,
+    "Country/Territory": "France",
+    "Capital": "Paris",
+    "Population": "2,241,346",
+    "Year": 2014,
+    "percent": "3.38%"
+  },
+  {
+    "Rank": 43,
+    "Country/Territory": "Uzbekistan",
+    "Capital": "Tashkent",
+    "Population": "2,207,850",
+    "Year": "",
+    "percent": "7.30%"
+  },
+  {
+    "Rank": 44,
+    "Country/Territory": "Azerbaijan",
+    "Capital": "Baku",
+    "Population": "2,204,200",
+    "Year": 2015,
+    "percent": "22.96%"
+  },
+  {
+    "Rank": 45,
+    "Country/Territory": "Cuba",
+    "Capital": "Havana",
+    "Population": "2,135,498",
+    "Year": 2010,
+    "percent": "18.93%"
+  },
+  {
+    "Rank": 46,
+    "Country/Territory": "Cambodia",
+    "Capital": "Phnom Penh",
+    "Population": "2,011,725",
+    "Year": "",
+    "percent": "13.29%"
+  },
+  {
+    "Rank": 47,
+    "Country/Territory": "Romania",
+    "Capital": "Bucharest",
+    "Population": "1,942,254",
+    "Year": "",
+    "percent": "9.73%"
+  },
+  {
+    "Rank": 48,
+    "Country/Territory": "Venezuela",
+    "Capital": "Caracas",
+    "Population": "1,838,939",
+    "Year": "",
+    "percent": "6.05%"
+  },
+  {
+    "Rank": 49,
+    "Country/Territory": "Congo",
+    "Capital": "Brazzaville",
+    "Population": "1,827,000",
+    "Year": 2014,
+    "percent": "39.19%"
+  },
+  {
+    "Rank": 50,
+    "Country/Territory": "Morocco",
+    "Capital": "Rabat",
+    "Population": "1,789,635",
+    "Year": "",
+    "percent": "5.42%"
+  },
+  {
+    "Rank": 51,
+    "Country/Territory": "Austria",
+    "Capital": "Vienna",
+    "Population": "1,749,673",
+    "Year": 2013,
+    "percent": "20.65%"
+  },
+  {
+    "Rank": 52,
+    "Country/Territory": "Sudan",
+    "Capital": "Khartoum",
+    "Population": "1,740,661",
+    "Year": "",
+    "percent": "4.59%"
+  },
+  {
+    "Rank": 53,
+    "Country/Territory": "Hungary",
+    "Capital": "Budapest",
+    "Population": "1,729,040",
+    "Year": 2011,
+    "percent": "17.34%"
+  },
+  {
+    "Rank": 54,
+    "Country/Territory": "Poland",
+    "Capital": "Warsaw",
+    "Population": "1,711,324",
+    "Year": 2012,
+    "percent": "4.42%"
+  },
+  {
+    "Rank": 55,
+    "Country/Territory": "Belarus",
+    "Capital": "Minsk",
+    "Population": "1,702,061",
+    "Year": "",
+    "percent": "17.98%"
+  },
+  {
+    "Rank": 56,
+    "Country/Territory": "Uganda",
+    "Capital": "Kampala",
+    "Population": "1,659,600",
+    "Year": "",
+    "percent": "4.42%"
+  },
+  {
+    "Rank": 57,
+    "Country/Territory": "Ghana",
+    "Capital": "Accra",
+    "Population": "1,640,507",
+    "Year": "",
+    "percent": "6.33%"
+  },
+  {
+    "Rank": 58,
+    "Country/Territory": "Madagascar",
+    "Capital": "Antananarivo",
+    "Population": "1,613,375",
+    "Year": "[unreliable source?]",
+    "percent": "7.04%"
+  },
+  {
+    "Rank": 59,
+    "Country/Territory": "Lebanon",
+    "Capital": "Beirut",
+    "Population": "1,574,387",
+    "Year": "",
+    "percent": "35.25%"
+  },
+  {
+    "Rank": 60,
+    "Country/Territory": "Sweden",
+    "Capital": "Stockholm",
+    "Population": "1,515,017",
+    "Year": 2014,
+    "percent": "22.33%"
+  },
+  {
+    "Rank": 61,
+    "Country/Territory": "Ecuador",
+    "Capital": "Quito",
+    "Population": "1,504,991",
+    "Year": "",
+    "percent": "9.65%"
+  },
+  {
+    "Rank": 62,
+    "Country/Territory": "Zimbabwe",
+    "Capital": "Harare",
+    "Population": "1,487,028",
+    "Year": "",
+    "percent": "10.51%"
+  },
+  {
+    "Rank": 63,
+    "Country/Territory": "Qatar",
+    "Capital": "Doha",
+    "Population": "1,450,000",
+    "Year": "",
+    "percent": "66.85%"
+  },
+  {
+    "Rank": 64,
+    "Country/Territory": "Yemen",
+    "Capital": "Sana'a",
+    "Population": "1,431,649",
+    "Year": "",
+    "percent": "5.87%"
+  },
+  {
+    "Rank": 65,
+    "Country/Territory": "Guinea",
+    "Capital": "Conakry",
+    "Population": "1,399,981",
+    "Year": "",
+    "percent": "11.91%"
+  },
+  {
+    "Rank": 66,
+    "Country/Territory": "Malaysia",
+    "Capital": "Kuala Lumpur",
+    "Population": "1,381,830",
+    "Year": "",
+    "percent": "4.65%"
+  },
+  {
+    "Rank": 67,
+    "Country/Territory": "Uruguay",
+    "Capital": "Montevideo",
+    "Population": "1,369,797",
+    "Year": "",
+    "percent": "40.21%"
+  },
+  {
+    "Rank": 68,
+    "Country/Territory": "Zambia",
+    "Capital": "Lusaka",
+    "Population": "1,331,254",
+    "Year": "",
+    "percent": "9.16%"
+  },
+  {
+    "Rank": 69,
+    "Country/Territory": "Mali",
+    "Capital": "Bamako",
+    "Population": "1,289,626",
+    "Year": "",
+    "percent": "8.43%"
+  },
+  {
+    "Rank": 70,
+    "Country/Territory": "Czech Republic",
+    "Capital": "Prague",
+    "Population": "1,241,664",
+    "Year": 2011,
+    "percent": "11.83%"
+  },
+  {
+    "Rank": 71,
+    "Country/Territory": "Haiti",
+    "Capital": "Port-au-Prince",
+    "Population": "1,235,227",
+    "Year": "",
+    "percent": "11.97%"
+  },
+  {
+    "Rank": 72,
+    "Country/Territory": "Libya",
+    "Capital": "Tripoli",
+    "Population": "1,184,045",
+    "Year": "",
+    "percent": "19.09%"
+  },
+  {
+    "Rank": 73,
+    "Country/Territory": "Kuwait",
+    "Capital": "Kuwait City",
+    "Population": "1,171,880",
+    "Year": "",
+    "percent": "34.78%"
+  },
+  {
+    "Rank": 74,
+    "Country/Territory": "Serbia",
+    "Capital": "Belgrade",
+    "Population": "1,154,589",
+    "Year": "",
+    "percent": "16.12%"
+  },
+  {
+    "Rank": 75,
+    "Country/Territory": "Dominican Republic",
+    "Capital": "Santo Domingo",
+    "Population": "1,111,838",
+    "Year": 2010,
+    "percent": "11.10%"
+  },
+  {
+    "Rank": 76,
+    "Country/Territory": "Somalia",
+    "Capital": "Mogadishu",
+    "Population": "1,097,133",
+    "Year": "",
+    "percent": "10.45%"
+  },
+  {
+    "Rank": 77,
+    "Country/Territory": "Bulgaria",
+    "Capital": "Sofia",
+    "Population": "1,090,295",
+    "Year": "",
+    "percent": "15.02%"
+  },
+  {
+    "Rank": 78,
+    "Country/Territory": "Belgium",
+    "Capital": "Brussels",
+    "Population": "1,080,790",
+    "Year": "",
+    "percent": "9.65%"
+  },
+  {
+    "Rank": 79,
+    "Country/Territory": "Armenia",
+    "Capital": "Yerevan",
+    "Population": "1,080,487",
+    "Year": "[unreliable source?]",
+    "percent": "36.29%"
+  },
+  {
+    "Rank": 80,
+    "Country/Territory": "Mozambique",
+    "Capital": "Maputo",
+    "Population": "1,076,689",
+    "Year": "",
+    "percent": "4.17%"
+  },
+  {
+    "Rank": 81,
+    "Country/Territory": "Sierra Leone",
+    "Capital": "Freetown",
+    "Population": "1,070,200",
+    "Year": "",
+    "percent": "17.57%"
+  },
+  {
+    "Rank": 82,
+    "Country/Territory": "Ireland",
+    "Capital": "Dublin",
+    "Population": "1,173,179",
+    "Year": "",
+    "percent": "24.63%"
+  },
+  {
+    "Rank": 83,
+    "Country/Territory": "Georgia",
+    "Capital": "Tbilisi",
+    "Population": "1,044,993",
+    "Year": "",
+    "percent": "23.34%"
+  },
+  {
+    "Rank": 84,
+    "Country/Territory": "Senegal",
+    "Capital": "Dakar",
+    "Population": "1,030,594",
+    "Year": "",
+    "percent": "7.29%"
+  },
+  {
+    "Rank": 85,
+    "Country/Territory": "Kazakhstan",
+    "Capital": "Astana",
+    "Population": "1,029,556",
+    "Year": 2017,
+    "percent": "5.67%"
+  },
+  {
+    "Rank": 86,
+    "Country/Territory": "Guatemala",
+    "Capital": "Guatemala City",
+    "Population": "1,022,000",
+    "Year": 2001,
+    "percent": "8.90%"
+  },
+  {
+    "Rank": 87,
+    "Country/Territory": "Liberia",
+    "Capital": "Monrovia",
+    "Population": "1,010,970",
+    "Year": "",
+    "percent": "23.54%"
+  },
+  {
+    "Rank": 88,
+    "Country/Territory": "Burkina Faso",
+    "Capital": "Ouagadougou",
+    "Population": "1,005,231",
+    "Year": "",
+    "percent": "5.94%"
+  },
+  {
+    "Rank": 89,
+    "Country/Territory": "Nepal",
+    "Capital": "Kathmandu",
+    "Population": "1,003,285",
+    "Year": 2011,
+    "percent": "3.69%"
+  },
+  {
+    "Rank": 90,
+    "Country/Territory": "Pakistan",
+    "Capital": "Islamabad",
+    "Population": "955,629",
+    "Year": "",
+    "percent": "0.48%"
+  },
+  {
+    "Rank": 91,
+    "Country/Territory": "Canada",
+    "Capital": "Ottawa",
+    "Population": "934,243",
+    "Year": 2016,
+    "percent": "2.55%"
+  },
+  {
+    "Rank": 92,
+    "Country/Territory": "Kurdistan",
+    "Capital": "Hewler",
+    "Population": "932,800",
+    "Year": 2018,
+    "percent": "15%"
+  },
+  {
+    "Rank": 93,
+    "Country/Territory": "Nicaragua",
+    "Capital": "Managua",
+    "Population": "926,883",
+    "Year": "",
+    "percent": "15.24%"
+  },
+  {
+    "Rank": 94,
+    "Country/Territory": "Myanmar",
+    "Capital": "Naypyidaw",
+    "Population": "925,000",
+    "Year": "",
+    "percent": "1.74%"
+  },
+  {
+    "Rank": 95,
+    "Country/Territory": "Mongolia",
+    "Capital": "Ulaanbaatar",
+    "Population": "907,802",
+    "Year": "",
+    "percent": "31.98%"
+  },
+  {
+    "Rank": 96,
+    "Country/Territory": "Malawi",
+    "Capital": "Lilongwe",
+    "Population": "902,388",
+    "Year": "",
+    "percent": "5.52%"
+  },
+  {
+    "Rank": 96,
+    "Country/Territory": "Bolivia",
+    "Capital": "La Paz",
+    "Population": "877,363",
+    "Year": "",
+    "percent": "8.22%"
+  },
+  {
+    "Rank": 97,
+    "Country/Territory": "Kyrgyzstan",
+    "Capital": "Bishkek",
+    "Population": "843,240",
+    "Year": "",
+    "percent": "14.74%"
+  },
+  {
+    "Rank": 99,
+    "Country/Territory": "Togo",
+    "Capital": "Lomé",
+    "Population": "824,738",
+    "Year": "",
+    "percent": "12.10%"
+  },
+  {
+    "Rank": 100,
+    "Country/Territory": "Panama",
+    "Capital": "Panama City",
+    "Population": "813,097",
+    "Year": "",
+    "percent": "21.04%"
+  },
+  {
+    "Rank": 101,
+    "Country/Territory": "Netherlands",
+    "Capital": "Amsterdam",
+    "Population": "855,965",
+    "Year": "",
+    "percent": "4.97%"
+  },
+  {
+    "Rank": 102,
+    "Country/Territory": "Croatia",
+    "Capital": "Zagreb",
+    "Population": "804,200",
+    "Year": "",
+    "percent": "18.91%"
+  },
+  {
+    "Rank": 103,
+    "Country/Territory": "Oman",
+    "Capital": "Muscat",
+    "Population": "797,000",
+    "Year": "",
+    "percent": "21.94%"
+  },
+  {
+    "Rank": 104,
+    "Country/Territory": "Niger",
+    "Capital": "Niamey",
+    "Population": "794,814",
+    "Year": "",
+    "percent": "4.46%"
+  },
+  {
+    "Rank": 105,
+    "Country/Territory": "Moldova",
+    "Capital": "Chişinău",
+    "Population": "794,800",
+    "Year": "",
+    "percent": "22.33%"
+  },
+  {
+    "Rank": 106,
+    "Country/Territory": "Israel",
+    "Capital": "Jerusalem",
+    "Population": "780,200",
+    "Year": "",
+    "percent": "9.68%"
+  },
+  {
+    "Rank": 107,
+    "Country/Territory": "Nigeria",
+    "Capital": "Abuja",
+    "Population": "778,567",
+    "Year": "",
+    "percent": "0.45%"
+  },
+  {
+    "Rank": 108,
+    "Country/Territory": "Albania",
+    "Capital": "Tirana",
+    "Population": "763,634",
+    "Year": "",
+    "percent": "27.53%"
+  },
+  {
+    "Rank": 109,
+    "Country/Territory": "Tunisia",
+    "Capital": "Tunis",
+    "Population": "767,629",
+    "Year": "",
+    "percent": "7.05%"
+  },
+  {
+    "Rank": 110,
+    "Country/Territory": "Turkmenistan",
+    "Capital": "Ashgabat",
+    "Population": "763,537",
+    "Year": "",
+    "percent": "14.57%"
+  },
+  {
+    "Rank": 111,
+    "Country/Territory": "Chad",
+    "Capital": "N'Djamena",
+    "Population": "751,288",
+    "Year": "",
+    "percent": "5.86%"
+  },
+  {
+    "Rank": 112,
+    "Country/Territory": "Honduras",
+    "Capital": "Tegucigalpa",
+    "Population": "735,982",
+    "Year": "",
+    "percent": "9.09%"
+  },
+  {
+    "Rank": 113,
+    "Country/Territory": "Central African Republic",
+    "Capital": "Bangui",
+    "Population": "731,548",
+    "Year": "",
+    "percent": "14.79%"
+  },
+  {
+    "Rank": 114,
+    "Country/Territory": "Mauritania",
+    "Capital": "Nouakchott",
+    "Population": "719,167",
+    "Year": "",
+    "percent": "18.49%"
+  },
+  {
+    "Rank": 115,
+    "Country/Territory": "Rwanda",
+    "Capital": "Kigali",
+    "Population": "718,414",
+    "Year": "",
+    "percent": "6.10%"
+  },
+  {
+    "Rank": 116,
+    "Country/Territory": "Latvia",
+    "Capital": "Riga",
+    "Population": "713,016",
+    "Year": "",
+    "percent": "35.42%"
+  },
+  {
+    "Rank": 117,
+    "Country/Territory": "Jamaica",
+    "Capital": "Kingston",
+    "Population": "701,063",
+    "Year": "",
+    "percent": "25.82%"
+  },
+  {
+    "Rank": 118,
+    "Country/Territory": "United States",
+    "Capital": "Washington, D.C.",
+    "Population": "658,893",
+    "Year": 2014,
+    "percent": "0.21%"
+  },
+  {
+    "Rank": 119,
+    "Country/Territory": "Norway",
+    "Capital": "Oslo",
+    "Population": "645,701",
+    "Year": 2013,
+    "percent": "12.70%"
+  },
+  {
+    "Rank": 120,
+    "Country/Territory": "Finland",
+    "Capital": "Helsinki",
+    "Population": "635,591",
+    "Year": 2016,
+    "percent": "11.55%"
+  },
+  {
+    "Rank": 121,
+    "Country/Territory": "United Arab Emirates",
+    "Capital": "Abu Dhabi",
+    "Population": "585,097",
+    "Year": "",
+    "percent": "6.27%"
+  },
+  {
+    "Rank": 122,
+    "Country/Territory": "Tajikistan",
+    "Capital": "Dushanbe",
+    "Population": "582,496",
+    "Year": "",
+    "percent": "7.10%"
+  },
+  {
+    "Rank": 123,
+    "Country/Territory": "Portugal",
+    "Capital": "Lisbon",
+    "Population": "564,657",
+    "Year": "",
+    "percent": "5.40%"
+  },
+  {
+    "Rank": 124,
+    "Country/Territory": "Denmark",
+    "Capital": "Copenhagen",
+    "Population": "562,253",
+    "Year": "",
+    "percent": "10.02%"
+  },
+  {
+    "Rank": 125,
+    "Country/Territory": "Lithuania",
+    "Capital": "Vilnius",
+    "Population": "556,723",
+    "Year": "",
+    "percent": "18.83%"
+  },
+  {
+    "Rank": 126,
+    "Country/Territory": "Gabon",
+    "Capital": "Libreville",
+    "Population": "556,425",
+    "Year": "",
+    "percent": "33.28%"
+  },
+  {
+    "Rank": 127,
+    "Country/Territory": "Eritrea",
+    "Capital": "Asmara",
+    "Population": "1,258,001",
+    "Year": "",
+    "percent": "5.20%"
+  },
+  {
+    "Rank": 128,
+    "Country/Territory": "El Salvador",
+    "Capital": "San Salvador",
+    "Population": "521,366",
+    "Year": "",
+    "percent": "8.22%"
+  },
+  {
+    "Rank": 129,
+    "Country/Territory": "Macedonia",
+    "Capital": "Skopje",
+    "Population": "521,000",
+    "Year": "",
+    "percent": "25%"
+  },
+  {
+    "Rank": 130,
+    "Country/Territory": "Paraguay",
+    "Capital": "Asunción",
+    "Population": "520,722",
+    "Year": "",
+    "percent": "7.66%"
+  },
+  {
+    "Rank": 131,
+    "Country/Territory": "Macau (China)",
+    "Capital": "Macau",
+    "Population": "520,400",
+    "Year": "",
+    "percent": "100%"
+  },
+  {
+    "Rank": 132,
+    "Country/Territory": "Scotland",
+    "Capital": "Edinburgh",
+    "Population": "492,680",
+    "Year": "",
+    "percent": "9.30%"
+  },
+  {
+    "Rank": 133,
+    "Country/Territory": "Djibouti",
+    "Capital": "Djibouti (city)",
+    "Population": "475,332",
+    "Year": "",
+    "percent": "54.45%"
+  },
+  {
+    "Rank": 134,
+    "Country/Territory": "Côte d'Ivoire",
+    "Capital": "Yamoussoukro",
+    "Population": "454,929",
+    "Year": "",
+    "percent": "2.24%"
+  },
+  {
+    "Rank": 135,
+    "Country/Territory": "Guinea-Bissau",
+    "Capital": "Bissau",
+    "Population": "452,640",
+    "Year": "",
+    "percent": "26.56%"
+  },
+  {
+    "Rank": 136,
+    "Country/Territory": "Estonia",
+    "Capital": "Tallinn",
+    "Population": "440,206",
+    "Year": "",
+    "percent": "33.22%"
+  },
+  {
+    "Rank": 137,
+    "Country/Territory": "Slovakia",
+    "Capital": "Bratislava",
+    "Population": "424,207",
+    "Year": "",
+    "percent": "7.84%"
+  },
+  {
+    "Rank": 138,
+    "Country/Territory": "Puerto Rico(US)",
+    "Capital": "San Juan",
+    "Population": "421,356",
+    "Year": "",
+    "percent": "12.37%"
+  },
+  {
+    "Rank": 139,
+    "Country/Territory": "New Zealand",
+    "Capital": "Wellington",
+    "Population": "405,000",
+    "Year": 2015,
+    "percent": "8.66%"
+  },
+  {
+    "Rank": 140,
+    "Country/Territory": "Bosnia and Herzegovina",
+    "Capital": "Sarajevo",
+    "Population": "395,133",
+    "Year": 2013,
+    "percent": "11.19%"
+  },
+  {
+    "Rank": 141,
+    "Country/Territory": "Burundi",
+    "Capital": "Gitega",
+    "Population": "23,000",
+    "Year": 2012,
+    "percent": "0.22%"
+  },
+  {
+    "Rank": 142,
+    "Country/Territory": "South Sudan",
+    "Capital": "Juba",
+    "Population": "372,410",
+    "Year": "",
+    "percent": "3.30%"
+  },
+  {
+    "Rank": 143,
+    "Country/Territory": "Australia",
+    "Capital": "Canberra",
+    "Population": "354,644",
+    "Year": "",
+    "percent": "1.53%"
+  },
+  {
+    "Rank": 144,
+    "Country/Territory": "Wales",
+    "Capital": "Cardiff",
+    "Population": "346,100",
+    "Year": "",
+    "percent": "11.30%"
+  },
+  {
+    "Rank": 145,
+    "Country/Territory": "Northern Ireland",
+    "Capital": "Belfast",
+    "Population": "333,871",
+    "Year": "",
+    "percent": "18.44%"
+  },
+  {
+    "Rank": 146,
+    "Country/Territory": "Costa Rica",
+    "Capital": "San José",
+    "Population": "328,195",
+    "Year": "",
+    "percent": "6.74%"
+  },
+  {
+    "Rank": 147,
+    "Country/Territory": "Papua New Guinea",
+    "Capital": "Port Moresby",
+    "Population": "299,396",
+    "Year": "[unreliable source?]",
+    "percent": "4.09%"
+  },
+  {
+    "Rank": 148,
+    "Country/Territory": "Laos",
+    "Capital": "Vientiane",
+    "Population": "287,579",
+    "Year": "",
+    "percent": "4.25%"
+  },
+  {
+    "Rank": 149,
+    "Country/Territory": "Tanzania",
+    "Capital": "Dodoma",
+    "Population": "287,200",
+    "Year": "2002 est.",
+    "percent": "0.80%"
+  },
+  {
+    "Rank": 150,
+    "Country/Territory": "Lesotho",
+    "Capital": "Maseru",
+    "Population": "267,652",
+    "Year": "",
+    "percent": "12.91%"
+  },
+  {
+    "Rank": 151,
+    "Country/Territory": "Cyprus",
+    "Capital": "Nicosia (south)",
+    "Population": "270,000",
+    "Year": "late 2004",
+    "percent": "26.57%"
+  },
+  {
+    "Rank": 152,
+    "Country/Territory": "Slovenia",
+    "Capital": "Ljubljana",
+    "Population": "280,140",
+    "Year": "",
+    "percent": "13.60%"
+  },
+  {
+    "Rank": 153,
+    "Country/Territory": "Suriname",
+    "Capital": "Paramaribo",
+    "Population": "254,147",
+    "Year": "",
+    "percent": "47.13%"
+  },
+  {
+    "Rank": 154,
+    "Country/Territory": "Namibia",
+    "Capital": "Windhoek",
+    "Population": "252,721",
+    "Year": "",
+    "percent": "10.97%"
+  },
+  {
+    "Rank": 155,
+    "Country/Territory": "Bahamas",
+    "Capital": "Nassau",
+    "Population": "248,948",
+    "Year": "",
+    "percent": "65.97%"
+  },
+  {
+    "Rank": 156,
+    "Country/Territory": "Botswana",
+    "Capital": "Gaborone",
+    "Population": "225,656",
+    "Year": "",
+    "percent": "11.17%"
+  },
+  {
+    "Rank": 157,
+    "Country/Territory": "Benin",
+    "Capital": "Porto-Novo",
+    "Population": "223,552",
+    "Year": "",
+    "percent": "2.17%"
+  },
+  {
+    "Rank": 158,
+    "Country/Territory": "Kosovo",
+    "Capital": "Prishtina",
+    "Population": "198,214",
+    "Year": "",
+    "percent": "10.32%"
+  },
+  {
+    "Rank": 159,
+    "Country/Territory": "Sahrawi Arab Democratic Republic",
+    "Capital": "El Aaiún (claimed) Tifariti (factual)",
+    "Population": "194,668\n3,000",
+    "Year": 2009,
+    "percent": "---"
+  },
+  {
+    "Rank": 160,
+    "Country/Territory": "Transnistria",
+    "Capital": "Tiraspol",
+    "Population": "159,163",
+    "Year": "",
+    "percent": "28.53%"
+  },
+  {
+    "Rank": 161,
+    "Country/Territory": "Mauritius",
+    "Capital": "Port Louis",
+    "Population": "147,251",
+    "Year": "",
+    "percent": "12.28%"
+  },
+  {
+    "Rank": 162,
+    "Country/Territory": "Montenegro",
+    "Capital": "Podgorica",
+    "Population": "141,854",
+    "Year": "",
+    "percent": "22.83%"
+  },
+  {
+    "Rank": 163,
+    "Country/Territory": "Bahrain",
+    "Capital": "Manama",
+    "Population": "140,616",
+    "Year": "",
+    "percent": "10.56%"
+  },
+  {
+    "Rank": 164,
+    "Country/Territory": "Guyana",
+    "Capital": "Georgetown",
+    "Population": "134,599",
+    "Year": "",
+    "percent": "16.83%"
+  },
+  {
+    "Rank": 165,
+    "Country/Territory": "Cape Verde",
+    "Capital": "Praia",
+    "Population": "125,464",
+    "Year": "",
+    "percent": "25.15%"
+  },
+  {
+    "Rank": 166,
+    "Country/Territory": "Switzerland",
+    "Capital": "Berne (de facto)",
+    "Population": "121,631",
+    "Year": "",
+    "percent": "1.51%"
+  },
+  {
+    "Rank": 167,
+    "Country/Territory": "Sri Lanka",
+    "Capital": "Colombo",
+    "Population": "118,556",
+    "Year": "",
+    "percent": "0.58%"
+  },
+  {
+    "Rank": 168,
+    "Country/Territory": "Iceland",
+    "Capital": "Reykjavík",
+    "Population": "115,000",
+    "Year": "",
+    "percent": "35.60%"
+  },
+  {
+    "Rank": 169,
+    "Country/Territory": "Barbados",
+    "Capital": "Bridgetown",
+    "Population": "110,000",
+    "Year": "",
+    "percent": "39.06%"
+  },
+  {
+    "Rank": 170,
+    "Country/Territory": "Maldives",
+    "Capital": "Malé",
+    "Population": "103,693",
+    "Year": "",
+    "percent": "30.05%"
+  },
+  {
+    "Rank": 171,
+    "Country/Territory": "Bhutan",
+    "Capital": "Thimphu",
+    "Population": "101,259",
+    "Year": "",
+    "percent": "13.43%"
+  },
+  {
+    "Rank": 172,
+    "Country/Territory": "Equatorial Guinea",
+    "Capital": "Malabo",
+    "Population": "100,677",
+    "Year": "",
+    "percent": "13.30%"
+  },
+  {
+    "Rank": 173,
+    "Country/Territory": "New Caledonia(France)",
+    "Capital": "Nouméa",
+    "Population": "89,207",
+    "Year": "",
+    "percent": "32.03%"
+  },
+  {
+    "Rank": 174,
+    "Country/Territory": "Northern Cyprus",
+    "Capital": "Nicosia (north)",
+    "Population": "84,893",
+    "Year": "",
+    "percent": "18.83%"
+  },
+  {
+    "Rank": 175,
+    "Country/Territory": "Fiji",
+    "Capital": "Suva",
+    "Population": "84,410",
+    "Year": "",
+    "percent": "9.58%"
+  },
+  {
+    "Rank": 176,
+    "Country/Territory": "Eswatini (Swaziland)",
+    "Capital": "Mbabane",
+    "Population": "81,594",
+    "Year": "",
+    "percent": "6.53%"
+  },
+  {
+    "Rank": 177,
+    "Country/Territory": "Luxembourg",
+    "Capital": "Luxembourg",
+    "Population": "76,420",
+    "Year": "",
+    "percent": "14.07%"
+  },
+  {
+    "Rank": 178,
+    "Country/Territory": "Saint Lucia",
+    "Capital": "Castries",
+    "Population": "70,000",
+    "Year": "",
+    "percent": "38.40%"
+  },
+  {
+    "Rank": 179,
+    "Country/Territory": "Northern Mariana Islands(USA)",
+    "Capital": "Saipan",
+    "Population": "62,392 (2000)",
+    "Year": "",
+    "percent": "100%"
+  },
+  {
+    "Rank": 180,
+    "Country/Territory": "Comoros",
+    "Capital": "Moroni",
+    "Population": "60,200",
+    "Year": "",
+    "percent": "8.19%"
+  },
+  {
+    "Rank": 181,
+    "Country/Territory": "Solomon Islands",
+    "Capital": "Honiara",
+    "Population": "59,288",
+    "Year": "",
+    "percent": "10.56%"
+  },
+  {
+    "Rank": 182,
+    "Country/Territory": "East Timor",
+    "Capital": "Dili",
+    "Population": "59,069",
+    "Year": "",
+    "percent": "5.01%"
+  },
+  {
+    "Rank": 183,
+    "Country/Territory": "São Tomé and Príncipe",
+    "Capital": "São Tomé",
+    "Population": "56,166",
+    "Year": "",
+    "percent": "29.10%"
+  },
+  {
+    "Rank": 184,
+    "Country/Territory": "American Samoa (USA)",
+    "Capital": "Pago Pago",
+    "Population": "52,000 (2003)",
+    "Year": "",
+    "percent": "6.57%"
+  },
+  {
+    "Rank": 185,
+    "Country/Territory": "Trinidad and Tobago",
+    "Capital": "Port of Spain",
+    "Population": "50,479",
+    "Year": "",
+    "percent": "3.76%"
+  },
+  {
+    "Rank": 186,
+    "Country/Territory": "Nagorno-Karabakh Republic",
+    "Capital": "Stepanakert",
+    "Population": "49,986",
+    "Year": "",
+    "percent": "36.57%"
+  },
+  {
+    "Rank": 187,
+    "Country/Territory": "Curaçao(Netherlands)",
+    "Capital": "Willemstad",
+    "Population": "49,885",
+    "Year": "",
+    "percent": "93.74%"
+  },
+  {
+    "Rank": 188,
+    "Country/Territory": "Saint Vincent and the Grenadines",
+    "Capital": "Kingstown",
+    "Population": "40,020",
+    "Year": "",
+    "percent": "36.59%"
+  },
+  {
+    "Rank": 189,
+    "Country/Territory": "Samoa",
+    "Capital": "Apia",
+    "Population": "39,813",
+    "Year": "",
+    "percent": "20.91%"
+  },
+  {
+    "Rank": 190,
+    "Country/Territory": "Vanuatu",
+    "Capital": "Port Vila",
+    "Population": "38,000",
+    "Year": "",
+    "percent": "15.03%"
+  },
+  {
+    "Rank": 191,
+    "Country/Territory": "Monaco",
+    "Capital": "Monaco",
+    "Population": "35,986",
+    "Year": "2011 est.",
+    "percent": "100%"
+  },
+  {
+    "Rank": 192,
+    "Country/Territory": "Gambia",
+    "Capital": "Banjul",
+    "Population": "34,828",
+    "Year": "",
+    "percent": "1.88%"
+  },
+  {
+    "Rank": 193,
+    "Country/Territory": "Kiribati",
+    "Capital": "Tarawa",
+    "Population": "30,000",
+    "Year": "",
+    "percent": "29.31%"
+  },
+  {
+    "Rank": 194,
+    "Country/Territory": "Aruba(Netherlands)",
+    "Capital": "Oranjestad",
+    "Population": "29,998",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 195,
+    "Country/Territory": "Seychelles",
+    "Capital": "Victoria",
+    "Population": "29,298",
+    "Year": "",
+    "percent": "32.86%"
+  },
+  {
+    "Rank": 196,
+    "Country/Territory": "Gibraltar (UK)",
+    "Capital": "Gibraltar",
+    "Population": "29,286",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 197,
+    "Country/Territory": "Jersey (UK)",
+    "Capital": "Saint Helier",
+    "Population": "28,380",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 198,
+    "Country/Territory": "Brunei",
+    "Capital": "Bandar Seri Begawan",
+    "Population": "28,135",
+    "Year": "",
+    "percent": "6.73%"
+  },
+  {
+    "Rank": 199,
+    "Country/Territory": "Cayman Islands(UK)",
+    "Capital": "George Town",
+    "Population": "26,798",
+    "Year": "",
+    "percent": "41.10%"
+  },
+  {
+    "Rank": 200,
+    "Country/Territory": "Isle of Man(UK)",
+    "Capital": "Douglas",
+    "Population": "26,600",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 201,
+    "Country/Territory": "French Polynesia (France)",
+    "Capital": "Papeete",
+    "Population": "26,200",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 202,
+    "Country/Territory": "Palestine",
+    "Capital": "Ramallah (de facto)",
+    "Population": "25,500",
+    "Year": "",
+    "percent": "0.53%"
+  },
+  {
+    "Rank": 203,
+    "Country/Territory": "Marshall Islands",
+    "Capital": "Majuro",
+    "Population": "25,400",
+    "Year": "",
+    "percent": "48.26%"
+  },
+  {
+    "Rank": 204,
+    "Country/Territory": "Andorra",
+    "Capital": "Andorra la Vella",
+    "Population": "22,884",
+    "Year": "",
+    "percent": "28.89%"
+  },
+  {
+    "Rank": 205,
+    "Country/Territory": "Antigua and Barbuda",
+    "Capital": "St. John's",
+    "Population": "22,679",
+    "Year": "",
+    "percent": "25.20%"
+  },
+  {
+    "Rank": 206,
+    "Country/Territory": "Tonga",
+    "Capital": "Nukuʻalofa",
+    "Population": "22,400",
+    "Year": "",
+    "percent": "21.27%"
+  },
+  {
+    "Rank": 207,
+    "Country/Territory": "Faroe Islands(Denmark)",
+    "Capital": "Tórshavn",
+    "Population": "18,573",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 208,
+    "Country/Territory": "Guernsey (UK)",
+    "Capital": "St. Peter Port",
+    "Population": "16,701",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 209,
+    "Country/Territory": "Belize",
+    "Capital": "Belmopan",
+    "Population": "16,451",
+    "Year": "",
+    "percent": "4.96%"
+  },
+  {
+    "Rank": 210,
+    "Country/Territory": "Greenland(Denmark)",
+    "Capital": "Nuuk (Godthåb)",
+    "Population": "15,469",
+    "Year": "",
+    "percent": "31.85%"
+  },
+  {
+    "Rank": 211,
+    "Country/Territory": "Dominica",
+    "Capital": "Roseau",
+    "Population": "14,847",
+    "Year": "",
+    "percent": "20.62%"
+  },
+  {
+    "Rank": 212,
+    "Country/Territory": "Saint Kitts and Nevis",
+    "Capital": "Basseterre",
+    "Population": "13,043",
+    "Year": "",
+    "percent": "24.07%"
+  },
+  {
+    "Rank": 213,
+    "Country/Territory": "Åland (Finland)",
+    "Capital": "Mariehamn",
+    "Population": "11,296",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 214,
+    "Country/Territory": "United States Virgin Islands (US)",
+    "Capital": "Charlotte Amalie",
+    "Population": "10,817",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 215,
+    "Country/Territory": "Federated States of Micronesia",
+    "Capital": "Palikir",
+    "Population": "9,900",
+    "Year": "",
+    "percent": "9.56%"
+  },
+  {
+    "Rank": 216,
+    "Country/Territory": "British Virgin Islands (UK)",
+    "Capital": "Road Town",
+    "Population": "9,400",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 217,
+    "Country/Territory": "Grenada",
+    "Capital": "St. George's",
+    "Population": "7,500",
+    "Year": "",
+    "percent": "7.08%"
+  },
+  {
+    "Rank": 218,
+    "Country/Territory": "Malta",
+    "Capital": "Valletta",
+    "Population": "6,444",
+    "Year": 2014,
+    "percent": "1.45%"
+  },
+  {
+    "Rank": 219,
+    "Country/Territory": "Saint Barthélemy (France)",
+    "Capital": "Gustavia",
+    "Population": "6,000",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 220,
+    "Country/Territory": "Collectivity of Saint Martin(France)",
+    "Capital": "Marigot",
+    "Population": "5,700",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 221,
+    "Country/Territory": "Saint Pierre and Miquelon (France)",
+    "Capital": "Saint-Pierre",
+    "Population": "5,509",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 222,
+    "Country/Territory": "Cook Islands(NZ)",
+    "Capital": "Avarua",
+    "Population": "5,445",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 223,
+    "Country/Territory": "Liechtenstein",
+    "Capital": "Vaduz",
+    "Population": "5,248",
+    "Year": "",
+    "percent": "14.21%"
+  },
+  {
+    "Rank": 224,
+    "Country/Territory": "San Marino",
+    "Capital": "City of San Marino",
+    "Population": "4,493",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 225,
+    "Country/Territory": "Tuvalu",
+    "Capital": "Funafuti",
+    "Population": "4,492",
+    "Year": "",
+    "percent": "45.48%"
+  },
+  {
+    "Rank": 226,
+    "Country/Territory": "Turks and Caicos Islands (UK)",
+    "Capital": "Cockburn Town",
+    "Population": "3,700",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 227,
+    "Country/Territory": "Falkland Islands (UK)",
+    "Capital": "Stanley",
+    "Population": "2,115",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 228,
+    "Country/Territory": "Svalbard(Norway)",
+    "Capital": "Longyearbyen",
+    "Population": "2,075",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 229,
+    "Country/Territory": "Christmas Island (Australia)",
+    "Capital": "Flying Fish Cove",
+    "Population": "1,493",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 230,
+    "Country/Territory": "Sint Maarten(Netherlands)",
+    "Capital": "Philipsburg",
+    "Population": "1,338",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 231,
+    "Country/Territory": "Wallis and Futuna (France)",
+    "Capital": "Mata-Utu",
+    "Population": "1,191",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 232,
+    "Country/Territory": "Anguilla (UK)",
+    "Capital": "The Valley",
+    "Population": "1,169",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 233,
+    "Country/Territory": "Nauru",
+    "Capital": "Yaren (de facto)",
+    "Population": "1,100",
+    "Year": "",
+    "percent": "10.91%"
+  },
+  {
+    "Rank": 234,
+    "Country/Territory": "Guam (US)",
+    "Capital": "Hagåtña",
+    "Population": "1,100",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 235,
+    "Country/Territory": "Montserrat (UK)",
+    "Capital": "Brades (de facto)",
+    "Population": 391,
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 236,
+    "Country/Territory": "Bermuda (UK)",
+    "Capital": "Hamilton",
+    "Population": "1,010",
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 237,
+    "Country/Territory": "Norfolk Island(Australia)",
+    "Capital": "Kingston",
+    "Population": 880,
+    "Year": "[unreliable source?]",
+    "percent": "---"
+  },
+  {
+    "Rank": 238,
+    "Country/Territory": "Vatican City",
+    "Capital": "Vatican City (city-state)",
+    "Population": "826 (2009 est.)",
+    "Year": "",
+    "percent": "100%"
+  },
+  {
+    "Rank": 239,
+    "Country/Territory": "Saint Helena(UK)",
+    "Capital": "Jamestown",
+    "Population": 714,
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 240,
+    "Country/Territory": "Niue (NZ)",
+    "Capital": "Alofi",
+    "Population": 616,
+    "Year": "",
+    "percent": "---"
+  },
+  {
+    "Rank": 241,
+    "Country/Territory": "Tokelau (NZ)",
+    "Capital": "Atafu",
+    "Population": 524,
+    "Year": "",
+    "percent": "34.96%"
+  },
+  {
+    "Rank": 242,
+    "Country/Territory": "Palau",
+    "Capital": "Ngerulmud",
+    "Population": 391,
+    "Year": "",
+    "percent": "1.87%"
+  },
+  {
+    "Rank": 243,
+    "Country/Territory": "Cocos (Keeling) Islands (Australia)",
+    "Capital": "West Island",
+    "Population": 120,
+    "Year": "",
+    "percent": "22.06%"
+  },
+  {
+    "Rank": 244,
+    "Country/Territory": "Pitcairn Islands(UK)",
+    "Capital": "Adamstown",
+    "Population": 56,
+    "Year": "",
+    "percent": "100%"
+  },
+  {
+    "Rank": 245,
+    "Country/Territory": "South Georgia and the South Sandwich Islands(UK)",
+    "Capital": "King Edward Point",
+    "Population": 18,
+    "Year": "",
+    "percent": "100%"
+  }
+]
