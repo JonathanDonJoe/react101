@@ -6,9 +6,9 @@ function Movie2(props) {
     const moviePath = `http://www.themoviedb.org/movie/${props.movie.id}`
 
     return(
-        <div className="col s3 center">
+        <div className="col s6 center">
             <a href={moviePath} target="_onblank">
-                <img src={imagePath} alt=""/>
+                <img src={imagePath} alt={props.movie.title}/>
             </a>
             <div>
                 {props.movie.title}

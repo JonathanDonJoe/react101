@@ -6,7 +6,6 @@ import Movie from './Movie'
 function App() {
   return (
     <div className="App">
-      <h1>Sanity Check</h1>
       <Movie/>
     </div>
   );
