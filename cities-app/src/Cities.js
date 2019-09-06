@@ -26,7 +26,7 @@ class Cities extends Component {
 
     render() {
         console.log('render')
-        console.log(this.state.citiesData)
+        // console.log(this.state.citiesData)
         const cities = this.state.citiesData.map( (city, i) => {
             return (
                 <City key={i} data={city} />
@@ -34,8 +34,10 @@ class Cities extends Component {
         })
 
         return(
-            <div>
-                {cities}
+            <div className='container'>
+                <div className='row'>
+                    {cities}
+                </div>
             </div>
         )
         
